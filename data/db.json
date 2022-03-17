@@ -1,0 +1,148 @@
+{
+    "data" : [
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        },
+        {
+            "address": "Tân Thuận, Q7",
+            "country": "61bc63d61a7044f8754dffed",
+            "department_manager": {
+                "id": "12312312", 
+                "type_name": "Giám đốc",
+                "first_name": "Minh",
+                "last_name": "Nguyễn Hồng", 
+                "image_profile": "https://st.quantrimang.com/photos/image/2021/01/18/anh-hoan-hao-1.jpg"
+            },
+            "detail": "test",
+            "id": "61bae874ea463092c41434b0",
+            "name": "R&D",
+            "parent": {"id": "61e641c68dc38d905f0b6fb7", "name": "QI Technologies"},
+            "timezone": "",
+            "type": {"id": "61bc4f418131ab2992911745", "name": "Regional Office"
+            }
+        }
+    ]
+}

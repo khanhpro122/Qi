@@ -1,0 +1,56 @@
+html,
+body {
+    margin   : 0;
+    height   : 100%;
+    width    : 100%;
+    font-size: 14px;
+    font-family: "SF UI Text", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+        "Segoe UI Symbol";
+    -webkit-font-smoothing: antialiased;
+}
+
+.orgchart-container {
+    border: none !important;
+}
+
+.sekure-org-chart {
+    background-image: none !important;
+}
+
+.orgchart>ul>li>ul li::before {
+    border-top: 2px solid #6c757d !important;
+}
+
+.orgchart>ul>li>ul li>.oc-node::before,
+.orgchart ul li .oc-node:not(:only-child)::after {
+    height          : 14px !important;
+    background-color: #6c757d !important;
+}
+
+.orgchart ul li .oc-node:hover,
+.orgchart ul li .oc-node.selected {
+    background-color: transparent !important;
+}
+
+.orgchart {
+    background-image: none !important;
+}
+
+.oc-edge.leftEdge,
+.oc-edge.rightEdge,
+.oc-edge.topEdge,
+.oc-edge.bottomEdge {
+    display: none !important;
+}
+
+.org-node-container {
+    border         : 2px solid #6c757d;
+    padding        : 10px;
+    border-radius  : 4px;
+    display        : flex;
+    justify-content: center;
+    flex-direction : column;
+    min-height     : 60px;
+    min-width      : 50px;
+}
